@@ -1,58 +1,52 @@
 ---
 enable: true
-topTitle: My Resume
+topTitle: In The Field & On The Course
 title: >
-  ## My Expertises
+  ## DGG Uses
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
+  Check out the many ways DGG can be an essential part of your Disc Golf training routine and game play..
 
 
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
-tab1Name: Education
-tab2Name: Experiences
+tab1Name: On The Field
+tab2Name: On The Course
 tab1Target: education
 tab2Target: experience
 
 education:
   - content: >
-      #### Master in Arts
+      #### Manage Disk Collection
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Select Disk when entering data to know how you performed with each disk. Quickly add new disks to your collection using the Add Disk utility
+    time: Add Disk
   - content: >
-      #### Master in Arts
+      #### Collect Field Work Data
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Going to an open field to throw is an important exercise in growing depth to your drive
+    time: Add Throw
   - content: >
-      #### Master in Arts
+      #### Track Growth From Education
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Save articles you read in blogs and instructional youtube videos to track how they influenced your Disc Golf Growth
+    time: Instructional Media
   - content: >
-      #### Master in Arts
+      #### Mental & Physical Well-being Survey
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Take a twice daily survey to record your mental and physical throughout your Disc Golf Growth. This can be used to find correlations in sleeping habits, happiness, and performance - all of which are closely tied together
+    time: Well-being
 
 experience:
   - content: >
-      #### Umbrella co. 
+      #### See Cross Course Performance  
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
+      Disc Golf Growth does more than collect your score each game. You can see how your score improves between and across courses as well as note what may be influencing your score such as particular training routines or getting enough sleep the night before
+    time: Track Game Scores
   - content: >
-      #### Aperture Science 
+      #### Calculate Strokes Gained Statistics
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
+      Ever since[UDisc](https://www.udisc.com) added [Strokes Gained](https://udisc.com/blog/post/what-strokes-gained-means-in-disc-golf-math) the sport of Disc Golf has looked a lot more Money-Ball and it is important. Don't be left behind with your abacus, join us in the future of the sport with statistics
+    time: Math, Math, & More Math
   - content: >
-      #### ACME Inc. 
+      #### Add A Little, Add A Lot
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
-  - content: >
-      #### LexCorp 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+      Whether simply want to write down your course and hole scores or you want to add the number of drives you took to get to circle 2, circle 1, then the basket. We have got tools for you to quickly get that in the app so you can get back to growing your game
+    time: Levels of Depth

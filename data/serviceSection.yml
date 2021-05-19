@@ -2,44 +2,42 @@
 enable: true
 topTitle: Working Area
 title: >
-  ## Creative Services
+  ## Disc Golf Growth Features  
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  DGG is loaded with features for the curation of your training and game performance metrics.
 service:
   - content: >
-      #### UI/UX Design 
+      #### Disc Collection 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Add Disks to your collection to be selected from during the exercise, throw, and game forms
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### Instructional Media 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Keep track of which articles, blogs, and YouTube videos you use in the growth of your disc golf game
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### Training Routine Tracker 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Input each of your training exercises including context specific forms for practices such as free putting, 5-Up, 11's or the Towel Exercise.
     image: images/service/creative.svg
   - content: >
-      #### Branding
+      #### Well-being Survey
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      A twice daily mental and physical well-being survey can be taken directly in the application. We will use this data to identify effects on your Disc Golf Growth and performance.
     image: images/service/branding.svg
   - content: >
-      #### UI/UX Design
+      #### Collect Throws
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      How often do you just go to an open field and throw? Not often enough. Next time bring Disc Golf Growth with you or enter your results when you get home, we'll be there.
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development
+      #### Data Visualizations
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      What is all this data for? Insights! The Data Visualization section shows you the hard evidence behind HOW MUCH your game has improved, WHAT training and instructional media has had the biggest influence on you, and HOW you can keep growing your disc golf game.
     image: images/service/web.svg
+  - content: >
+      #### Tips
+
+      The Tips section of the application provides a unique perspective on how to grow improve your game. Here you can learn just how someone learned something, see a breakdown of the resources that taught them or improved their game, then follow their steps in search of similar results.
+    image:
