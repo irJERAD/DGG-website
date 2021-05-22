@@ -1,5 +1,5 @@
 ---
-title: Stroked Gained Now A Major Part of Disc Golf
+title: Strokes Gained Now A Major Part of Disc Golf
 date: 2021-05-21T18:04:27+08:00
 featureImage: images/allpost/allPost-7.jpg
 postImage: images/single-blog/feature-image.jpg
