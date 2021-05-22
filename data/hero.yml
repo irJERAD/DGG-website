@@ -8,5 +8,6 @@ content: >
 buttonName: Contact me
 buttonURL: contact
 image: images/hero/DGG-basket-sky.jpg
-videoThumb: images/hero/popup-thumb.png
-videoURL: https://youtu.be/YZTL1jAYxMc
+videoThumb: images/hero/video-thumb.png
+videoURL: https://www.youtube.com/watch?v=YZTL1jAYxMc
+
