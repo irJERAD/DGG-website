@@ -15,7 +15,7 @@ service:
       #### Instructional Media 
 
       Keep track of which articles, blogs, and YouTube videos you use in the growth of your disc golf game
-    image: images/service/web.svg
+    image: images/service/instructional-media.svg
   - content: >
       #### Training Routine Tracker 
 
@@ -25,12 +25,12 @@ service:
       #### Well-being Survey
 
       A twice daily mental and physical well-being survey can be taken directly in the application. We will use this data to identify effects on your Disc Golf Growth and performance.
-    image: images/service/branding.svg
+    image: images/service/well-being-survey.svg
   - content: >
       #### Collect Throws
 
       How often do you just go to an open field and throw? Not often enough. Next time bring Disc Golf Growth with you or enter your results when you get home, we'll be there.
-    image: images/service/ui-ux.svg
+    image: images/service/throw.svg
   - content: >
       #### Data Visualizations
 
@@ -40,4 +40,4 @@ service:
       #### Tips
 
       The Tips section of the application provides a unique perspective on how to grow improve your game. Here you can learn just how someone learned something, see a breakdown of the resources that taught them or improved their game, then follow their steps in search of similar results.
-    image:
+    image: images/services/tips.svg

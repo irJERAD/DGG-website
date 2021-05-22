@@ -1,34 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="63.931" height="63.93" viewBox="0 0 63.931 63.93">
-  <g id="Group_1234" data-name="Group 1234" transform="translate(0 -0.005)">
-    <g id="Group_1223" data-name="Group 1223" transform="translate(0 0.005)">
-      <g id="Group_1222" data-name="Group 1222" transform="translate(0 0)">
-        <path id="Path_1441" data-name="Path 1441" d="M60.712,3.224a11,11,0,0,0-15.548,0L.268,48.119,0,63.935l15.816-.268L60.711,18.772a10.995,10.995,0,0,0,0-15.548ZM14.74,61.128,2.6,61.334l.206-12.139L6.513,45.49,18.445,57.423Zm5.512-5.512L8.32,43.682,41.573,10.43,53.506,22.362ZM58.9,16.965l-3.59,3.59L43.381,8.623l3.591-3.591A8.437,8.437,0,1,1,58.9,16.965Z" transform="translate(0 -0.005)" fill="#5d78ff"/>
-      </g>
-    </g>
-    <g id="Group_1225" data-name="Group 1225" transform="translate(31.078 29.245)">
-      <g id="Group_1224" data-name="Group 1224" transform="translate(0 0)">
-        <rect id="Rectangle_2423" data-name="Rectangle 2423" width="2.556" height="2.556" transform="translate(0 1.808) rotate(-45)" fill="#5d78ff"/>
-      </g>
-    </g>
-    <g id="Group_1227" data-name="Group 1227" transform="translate(35.777 24.545)">
-      <g id="Group_1226" data-name="Group 1226" transform="translate(0 0)">
-        <rect id="Rectangle_2424" data-name="Rectangle 2424" width="2.556" height="2.556" transform="translate(0 1.808) rotate(-45)" fill="#5d78ff"/>
-      </g>
-    </g>
-    <g id="Group_1229" data-name="Group 1229" transform="translate(26.376 33.945)">
-      <g id="Group_1228" data-name="Group 1228" transform="translate(0 0)">
-        <rect id="Rectangle_2425" data-name="Rectangle 2425" width="2.556" height="2.556" transform="translate(0 1.808) rotate(-45)" fill="#5d78ff"/>
-      </g>
-    </g>
-    <g id="Group_1231" data-name="Group 1231" transform="translate(21.717 38.644)">
-      <g id="Group_1230" data-name="Group 1230" transform="translate(0 0)">
-        <rect id="Rectangle_2426" data-name="Rectangle 2426" width="2.497" height="2.556" transform="translate(0 1.766) rotate(-45)" fill="#5d78ff"/>
-      </g>
-    </g>
-    <g id="Group_1233" data-name="Group 1233" transform="translate(30.555 61.357)">
-      <g id="Group_1232" data-name="Group 1232">
-        <rect id="Rectangle_2427" data-name="Rectangle 2427" width="32.095" height="2.556" fill="#5d78ff"/>
-      </g>
-    </g>
-  </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 64 64">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="PencilOnly" value="0"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="OutlineMode" value="0"/>
+<vectornator:setting key="CMYKEnabledKey" value="0"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="doHistoryDisabled" value="0"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="TimeLapseWatermarkDisabled" value="0"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="DynamicGuides" value="0"/>
+<vectornator:setting key="IsolateActiveLayer" value="0"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+</metadata>
+<defs/>
+<g id="Layer 1" vectornator:layerName="Layer 1">
+<path d="M20.3299+39.3903C20.3299+40.0417+19.8012+40.5704+19.1498+40.5704L9.7088+40.5704C9.05737+40.5704+8.52867+40.0417+8.52867+39.3903L8.52867+33.4897C8.52867+32.8382+9.05737+32.3096+9.7088+32.3096L19.1498+32.3096C19.8012+32.3096+20.3299+32.8382+20.3299+33.4897L20.3299+39.3903Z" opacity="1" fill="#5c78fe"/>
+<path d="M43.9324+39.3903C43.9324+40.0417+43.4037+40.5704+42.7523+40.5704L33.3113+40.5704C32.6599+40.5704+32.1312+40.0417+32.1312+39.3903L32.1312+33.4897C32.1312+32.8382+32.6599+32.3096+33.3113+32.3096L42.7523+32.3096C43.4037+32.3096+43.9324+32.8382+43.9324+33.4897L43.9324+39.3903Z" opacity="1" fill="#5c78fe"/>
+<path d="M49.8331+2.80641C44.3419+2.80641+39.6474+6.2394+37.7533+11.0673L30.9511+11.0673C29.0145+11.0673+27.3068+12.0185+26.2306+13.4641C25.1543+12.0185+23.4466+11.0673+21.5101+11.0673L7.34854+11.0673C4.09494+11.0673+1.44792+13.7143+1.44792+16.9679L1.44792+40.5704L1.44792+42.9307L1.44792+46.4711C1.44792+49.7247+4.09494+52.3717+7.34854+52.3717L22.6902+52.3717C23.9919+52.3717+25.0504+53.4303+25.0504+54.7319L27.4107+54.7319C27.4107+53.4303+28.4693+52.3717+29.7709+52.3717L45.1126+52.3717C48.3662+52.3717+51.0132+49.7247+51.0132+46.4711L51.0132+42.9307L51.0132+40.5704L51.0132+28.709C57.6195+28.1107+62.8144+22.5476+62.8144+15.7878C62.8144+8.63033+56.9905+2.80641+49.8331+2.80641ZM22.6902+50.0114L7.34854+50.0114C5.88165+50.0114+4.62127+49.1145+4.08432+47.84C5.02016+48.4643+6.14128+48.8313+7.34854+48.8313L21.5101+48.8313C22.7079+48.8313+23.7641+49.432+24.4049+50.3454C23.8727+50.1365+23.2968+50.0114+22.6902+50.0114ZM21.5101+46.4711L7.34854+46.4711C5.39662+46.4711+3.80817+44.8826+3.80817+42.9307L3.80817+40.5704L3.80817+16.9679C3.80817+15.016+5.39662+13.4275+7.34854+13.4275L21.5101+13.4275C23.462+13.4275+25.0504+15.016+25.0504+16.9679L25.0504+24.0487L25.0504+47.6842C24.065+46.9301+22.8448+46.4711+21.5101+46.4711ZM45.1126+50.0114L29.7709+50.0114C29.1643+50.0114+28.5884+50.1365+28.0562+50.3454C28.697+49.432+29.7532+48.8313+30.9511+48.8313L45.1126+48.8313C46.3198+48.8313+47.441+48.4643+48.3768+47.84C47.841+49.1145+46.5795+50.0114+45.1126+50.0114ZM48.6529+40.5704L48.6529+42.9307C48.6529+44.8826+47.0645+46.4711+45.1126+46.4711L30.9511+46.4711C29.6163+46.4711+28.3961+46.9301+27.4107+47.6842L27.4107+24.0487L27.4107+16.9679C27.4107+15.016+28.9991+13.4275+30.9511+13.4275L37.0771+13.4275C36.9355+14.1946+36.8517+14.9806+36.8517+15.7878C36.8517+16.595+36.9355+17.381+37.0771+18.148L32.1312+18.148L32.1312+20.5083L37.7533+20.5083C38.079+21.3403+38.485+22.131+38.9665+22.8685L32.1312+22.8685L32.1312+25.2288L40.9514+25.2288C43.0072+27.163+45.6837+28.4399+48.6529+28.709L48.6529+40.5704ZM49.8331+26.4089C43.9761+26.4089+39.2119+21.6448+39.2119+15.7878C39.2119+9.93083+43.9761+5.16666+49.8331+5.16666C55.69+5.16666+60.4542+9.93083+60.4542+15.7878C60.4542+21.6448+55.69+26.4089+49.8331+26.4089Z" opacity="1" fill="#5c78fe"/>
+<path d="M8.52867+18.148L20.3299+18.148L20.3299+20.5083L8.52867+20.5083L8.52867+18.148Z" opacity="1" fill="#5c78fe"/>
+<path d="M8.52867+22.8685L20.3299+22.8685L20.3299+25.2288L8.52867+25.2288L8.52867+22.8685Z" opacity="1" fill="#5c78fe"/>
+<path d="M8.52867+27.5891L20.3299+27.5891L20.3299+29.9493L8.52867+29.9493L8.52867+27.5891Z" opacity="1" fill="#5c78fe"/>
+<path d="M32.1312+27.5891L43.9324+27.5891L43.9324+29.9493L32.1312+29.9493L32.1312+27.5891Z" opacity="1" fill="#5c78fe"/>
+<path d="M48.6529+8.70704L51.0132+8.70704L51.0132+18.148L48.6529+18.148L48.6529+8.70704Z" opacity="1" fill="#5c78fe"/>
+<path d="M48.6529+20.5083L51.0132+20.5083L51.0132+22.8685L48.6529+22.8685L48.6529+20.5083Z" opacity="1" fill="#5c78fe"/>
+</g>
 </svg>
