@@ -13,7 +13,9 @@ image: images/skill/skill_image.jpg
 skill:
   - title: Mobile Architecture
     percent: 35
+  - title: Learn Swift
+    percent: 20
   - title: Desktop Architecture
-    percent: 65
+    percent: 45
   - title: Creative Assets
-    percent: 35
+    percent: 25
