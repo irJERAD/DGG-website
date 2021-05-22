@@ -1,19 +1,19 @@
 ---
 enable: true
-topTitle: Testimonials
+topTitle: Word On The Street
 title: >
-  ## What People are Say About Me?
+  ## Some early feedback:
 
 testimonial:
-  - name: Ryan Cook
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 20, 2020
+  - name: Jerad Acosta
+    comment: This app is going to be killer. The whole concept is amazing and incredibly useful. How  could I not think so - I'm building it!
+    time: May 20, 2021
     star: 5
-  - name: Justin Trudo
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 16, 2020
+  - name: Stephanie Chong
+    comment: I am new to Disc Golf but Jerad is a great teacher. He is very smart and great with data science and programming so I know this will be great.
+    time: May 21, 2021
     star: 4
-  - name: Franky Filth
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Mar 08, 2020
-    star: 3
+  - name: Sandra Ferguson
+    comment: Jerad is off playing that Frisbee Golf every day now. I'm glad he's got this to keep his schedule a little more rounded. I love him.
+    time: Mar 08, 2021
+    star: 5
