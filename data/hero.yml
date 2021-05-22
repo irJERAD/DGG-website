@@ -5,8 +5,8 @@ content: >
   # We are here to grow your game
 
   By tracking, visualizing, and providing feedback and context heavy tips on everything from when you wake up to you train and play until you go to bed each night
-buttonName: Contact me
-buttonURL: contact
+buttonName: See Beta
+buttonURL: https://jerad.shinyapps.io/DiscGolfGrowth/
 image: images/hero/DGG-basket-sky.jpg
 videoThumb: images/hero/video-thumb.png
 videoURL: https://www.youtube.com/watch?v=YZTL1jAYxMc

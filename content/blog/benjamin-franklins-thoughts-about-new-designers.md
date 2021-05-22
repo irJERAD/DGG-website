@@ -1,13 +1,13 @@
 ---
-title: "Benjamin Franklins thoughts about new designers"
-date: 2020-07-13T12:49:27+06:00
+title: Stroked Gained Now A Major Part of Disc Golf
+date: 2021-05-21T18:04:27+08:00
 featureImage: images/allpost/allPost-7.jpg
 postImage: images/single-blog/feature-image.jpg
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+[Stroked Gained has been an important feature in Ball Golf since at least 2011](https://www.shotbyshot.com/History-of-Strokes-Gained). Now [Stroked Gained has come to Disc Golf](https://udisc.com/blog/post/strokes-gained-stats-disc-golf-udisc-live), thanks to the amazing numberfiles over at [UDisc](https://www.udisc.com).  
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+For those who don't yet know, [here is a great introduction to Stroked Gained](https://udisc.com/blog/post/strokes-gained-stats-disc-golf-udisc-live) from the Disc Golf perspective.
 
 > "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
 > -- <cite>Benjamin Franklin</cite>

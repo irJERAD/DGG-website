@@ -31,8 +31,8 @@ content: >
   
   * Tips break down how they learned something and what it did to help their performance - All supported by hard data  
   
-button1Name: Hire me
-button2Name: Download CV
-button1Target: contact
-button2Target: contact
+button1Name: See Beta
+button2Name: Mobile App Beta
+button1Target: https://jerad.shinyapps.io/DiscGolfGrowth/
+button2Target: https://jerad.shinyapps.io/DGG-mobile/
 image: images/about/about-img.png
