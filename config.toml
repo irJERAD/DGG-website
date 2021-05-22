@@ -9,27 +9,27 @@ name = "Home"
 url = "#home"
 weight = 1
 [[menu.main]]
-name = "About The App"
+name = "The App"
 url = "#about"
 weight = 2
 [[menu.main]]
-name = "Service"
+name = "Features"
 url = "#service"
 weight = 3
 [[menu.main]]
-name = "Work"
+name = "How-To"
 url = "#portfolio"
 weight = 4
 [[menu.main]]
-name = "Resume"
+name = "Uses"
 url = "#resume"
 weight = 5
 [[menu.main]]
-name = "Blog"
+name = "News"
 url = "#blog"
 weight = 6
 [[menu.main]]
-name = "Contact"
+name = "Our Info"
 url = "#contact"
 weight = 7
 

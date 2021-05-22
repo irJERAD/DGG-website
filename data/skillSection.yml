@@ -1,17 +1,19 @@
 ---
 enable: true
-topTitle: My Skills
+topTitle: Our Current Progress
 content: >
-  ## Why hire me for your next project?
+  ## Where we are in the flight of things
 
-  My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
+  #### Please take this into consideration:  
+  
+  This is only meant as a rough estimate - mostly for fun, partially for my own focus and motivation. As with all agile software projects, our vision gets blurrier the further ahead we project. Assumptions are made, efforts are estimated and lines are sketched but nothing here is stone or even fully known.
 
 image: images/skill/skill_image.jpg
 
 skill:
-  - title: HTML
-    percent: 69
-  - title: CSS
-    percent: 60
-  - title: Javascript
-    percent: 85
+  - title: Mobile Architecture
+    percent: 35
+  - title: Desktop Architecture
+    percent: 65
+  - title: Creative Assets
+    percent: 35
