@@ -1,4 +1,4 @@
-baseURL = "http://DGG.jerad.xyz/"
+baseURL = "https://DGG.jerad.xyz/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
