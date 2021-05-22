@@ -10,7 +10,7 @@ service:
       #### Disc Collection 
 
       Add Disks to your collection to be selected from during the exercise, throw, and game forms
-    image: images/service/ui-ux.svg
+    image: images/service/disk-collection.svg
   - content: >
       #### Instructional Media 
 
